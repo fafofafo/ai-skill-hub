@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node
+node_modules/
+
+# 环境/密钥
+.env
+*.key
+*.pem
+
+# 系统
+.DS_Store
+Thumbs.db
